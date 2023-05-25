@@ -10,7 +10,9 @@
 
 # production
 /build
-server/
+server_suppend/
+server_synchronisation/
+server_authtification/
 # misc
 .DS_Store
 .env.local
